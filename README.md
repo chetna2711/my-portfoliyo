@@ -1,12 +1,38 @@
-# React + Vite
+# 🌐 My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using **React**, **HTML**, **CSS**, and various UI/UX tools. It showcases my projects, skills, and contact information.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React
+- 🧑‍🎨 HTML & CSS
+- 🎨 Google Fonts
+- ⭐ Font Awesome Icons
+- 🔀 React Router DOM
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Features
+
+- Responsive design
+- Smooth navigation using `react-router-dom`
+- Integrated icons using Font Awesome
+- Stylish typography with Google Fonts
+- Clean, modern UI
+
+## 🛠️ Installation & Setup
+
+```bash
+git clone https://github.com/your-username/my-portfolio.git
+cd my-portfolio
+npm install
+npm start
+
+
+📬 Contact
+📧 chetnakanak2001@gmail.com
+
+LinkedIn : www.linkedin.com/in/chetna-kanak
+
+GitHub :  https://github.com/chetna2711/my-portfoliyo
